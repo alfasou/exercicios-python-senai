@@ -1,4 +1,4 @@
-AULA 4
+# AULA 4
 
 1. Peça ao usuário para inserir uma palavra e exiba o número de caracteres que a palavra possui usando a função `len()`.
 

@@ -4,9 +4,9 @@
 
 **Tela de Menus**
 
-![imagem de uma janela com três botões, um embaixo do outro: "Cadastro", "Sistema" e "Sair" ](ex1menu.png "Menu")
+![imagem de uma janela com três botões, um embaixo do outro: "Cadastro", "Sistema" e "Sair" ](exercicio1/ex1menu.png "Menu")
 
 
 Ao Clicar em "**Cadastro**", deve abrir o seguinte formulário:
 
-![cinco campos de formulário, um embaixo do outro, com rótulos (Nome, E-mail, CPF, RG e Nome da Mãe) e um botão "Enviar" centralizado embaixo](ex1form.png "Formulário 1")
+![cinco campos de formulário, um embaixo do outro, com rótulos (Nome, E-mail, CPF, RG e Nome da Mãe) e um botão "Enviar" centralizado embaixo](exercicio1/ex1form.png "Formulário 1")
