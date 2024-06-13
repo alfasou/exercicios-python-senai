@@ -21,6 +21,6 @@
    - Quando o usuário clicar no botão, exiba o IMC calculado em uma `messagebox`.
  
    Cálculo para IMC:
-    ```python
-    imc = peso / (altura **2)
-    ```
+```python
+imc = peso / (altura **2)
+```
