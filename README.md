@@ -19,7 +19,7 @@ Cada pasta é referente a uma aula, todas contém um arquivo Readme com os enunc
 #### [Aula 6](aula-6/Readme.md)
 - Aprendendo novas estruturas de repetição com loop `for`
 
-#### Aula 7
+#### [Aula 7]()
 - Desenvolvendo e corrigindo os exercícios da Aula 6
 
 #### [Aula 8](aula-8/Readme.md)
