@@ -1,4 +1,4 @@
-# Exercícios do Python
+# Exercícios de Python
 
 Exercícios realizados para o Curso de Programação em Python do SENAI Campinas.
 
