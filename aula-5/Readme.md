@@ -23,19 +23,19 @@
 
 #### Sistema Bancário Simples
 
-     Crie um programa em Python que simule um sistema bancário simples com as seguintes funcionalidades:
+   Crie um programa em Python que simule um sistema bancário simples com as seguintes funcionalidades:
 
-     O usuário deve ser capaz de inserir um número de conta e uma senha de 4 dígitos.
+   O usuário deve ser capaz de inserir um número de conta e uma senha de 4 dígitos.
 
-     Após inserir a conta e senha corretamente (conta: 1234, senha: 4321), o usuário terá as seguintes opções:
+   Após inserir a conta e senha corretamente (conta: 1234, senha: 4321), o usuário terá as seguintes opções:
 
-      1 - Verificar saldo<br /> 
-      2 - Depositar dinheiro na conta<br /> 
-      3 - Retirar dinheiro da conta<br /> 
-      0 - Sair do sistema<br /> 
+   1 - Verificar saldo<br /> 
+   2 - Depositar dinheiro na conta<br /> 
+   3 - Retirar dinheiro da conta<br /> 
+   0 - Sair do sistema<br /> 
 
-     O programa deve continuar rodando até que o usuário escolha a opção de sair.
+   O programa deve continuar rodando até que o usuário escolha a opção de sair.
 
-     Garanta que o usuário só possa acessar as opções do sistema após fornecer corretamente a conta e a senha.
+   Garanta que o usuário só possa acessar as opções do sistema após fornecer corretamente a conta e a senha.
 
-     Se o usuário inserir uma opção inválida, o programa deve informar e solicitar uma nova entrada.
+   Se o usuário inserir uma opção inválida, o programa deve informar e solicitar uma nova entrada.
