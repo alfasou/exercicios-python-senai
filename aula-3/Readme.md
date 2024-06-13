@@ -14,19 +14,19 @@
 
 5. As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calcula os reajustes.
 
-Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
+    Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
 
-   - salários até R$ 280,00 (incluindo) : aumento de 20%
-   - salários entre R$ 280,00 e R$ 700,00 : aumento de 15% 
-   - salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
-   - salários de R$ 1500,00 em diante : aumento de 5% 
+    - salários até R$ 280,00 (incluindo) : aumento de 20%
+    - salários entre R$ 280,00 e R$ 700,00 : aumento de 15% 
+    - salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+    - salários de R$ 1500,00 em diante : aumento de 5% 
 
-Após o aumento ser realizado, informe na tela:
+    Após o aumento ser realizado, informe na tela:
 
-   - o salário antes do reajuste;
-   - o percentual de aumento aplicado;
-   - o valor do aumento;
-   - o novo salário, após o aumento.
+    - o salário antes do reajuste;
+    - o percentual de aumento aplicado;
+    - o valor do aumento;
+    - o novo salário, após o aumento.
 
 6. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 10% para o INSS e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita).
 O Salário Líquido corresponde ao Salário Bruto menos os descontos. 
@@ -44,10 +44,10 @@ Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exempl
 
 7. Desenvolva um programa no qual o usuário insira informações sobre um produto, incluindo o nome, a categoria e o preço de custo. O programa calculará e apresentará o preço de venda do produto com base na categoria, seguindo as seguintes porcentagens de acréscimo:
 
-    - Informática: 30%
-    - VideoGame: 20%
-    - Smartphone: 15%
+      - Informática: 30%
+      - VideoGame: 20%
+      - Smartphone: 15%
 
-Por exemplo:
+    Por exemplo:
 
     Se o usuário “cadastrar um produto” chamado Moto G 8, na categoria Smartphone, com preço de custo de R$1000, o programa deverá calcular e apresentar o preço de venda como R$1150

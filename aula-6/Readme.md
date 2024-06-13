@@ -6,8 +6,8 @@
 
 3. Solicite ao usuário para inserir um número inteiro e imprima um padrão de asteriscos usando um loop `for` e `range()`, onde o número de asteriscos em cada linha é igual ao número da linha.
 
-Exemplo:
-Usuário digitou 4, a saída deve ser
+     Exemplo:
+     Usuário digitou 4, a saída deve ser
 ```
 *
 * *
