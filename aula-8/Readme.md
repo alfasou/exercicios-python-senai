@@ -1,5 +1,4 @@
 # AULA 8
-[Interface Tkinter]
 
 #### Calculadora Simples:
 - Crie uma interface com dois campos de entrada (`input`) para os números.

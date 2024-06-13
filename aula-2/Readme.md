@@ -15,14 +15,12 @@
 
 3. Crie um algoritmo onde o usuário digite o peso e altura de uma pessoa e com base no IMC (Índice de massa corporal), apresente as mensagens:
 
-  | Condição                       | Mensagem para apresentar |
-  | ------------------------------ | ------------------------ |
-  | imc menor do que 18.5          | Abaixo do peso           |
-  | imc maior ou igual a 18.5 e 
-    imc menor ou igual do que 24.9 | Peso Normal              |
-  | imc maior ou igual a 25 e 
-    imc menor do que 29.9          | Sobrepeso                |
-  | Senao                          | Obesidade                |
+  | Condição                                                   | Mensagem para apresentar |
+  | ---------------------------------------------------------- | ------------------------ |
+  | imc menor do que 18.5                                      | Abaixo do peso           |
+  | imc maior ou igual a 18.5 e imc menor ou igual do que 24.9 | Peso Normal              |
+  | imc maior ou igual a 25 e imc menor do que 29.9            | Sobrepeso                |
+  | Senao                                                      | Obesidade                |
 
 
 Cálculo para IMC:
