@@ -37,6 +37,13 @@ def iniciarJanela():
     txtCPF = interface.Entry(frameForm, font=15)
     txtCPF.grid(row=2, column=1, padx=30, pady=10)
 
+    # RG
+    lblRG = interface.Label(frameForm, text="RG:", font=15)
+    lblRG.grid(row=2, column=0, padx=30, pady=10, sticky='w')
+
+    txtRG = interface.Entry(frameForm, font=15)
+    txtRG.grid(row=2, column=1, padx=30, pady=10)
+
     # Nome da Mãe
     lblMae = interface.Label(frameForm, text="Nome da Mãe:", font=15)
     lblMae.grid(row=3, column=0, padx=30, pady=10, sticky='w')
