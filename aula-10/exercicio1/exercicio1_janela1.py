@@ -37,7 +37,7 @@ def iniciarJanela():
         user = txtUser.get()
         senha = txtSenha.get()
 
-        if user == 'admin' or senha == '4321':
+        if user == 'admin' and senha == '4321':
             janela.destroy()
             exercicio1_janela2.iniciarJanela()
         else:
