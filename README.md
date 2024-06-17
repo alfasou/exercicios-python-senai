@@ -30,3 +30,6 @@ Cada pasta é referente a uma aula, todas contém um arquivo Readme com os enunc
 
 #### [Aula 10](aula-10/Readme.md)
 - Abrindo e fechando janelas com _Tkinter_.
+
+#### [Aula 11]()
+- Desenvolvendo e corrigindo os exercícios da Aula 10.
