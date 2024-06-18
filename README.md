@@ -33,3 +33,6 @@ Cada pasta é referente a uma aula, todas contém um arquivo Readme com os enunc
 
 #### [Aula 11]()
 - Desenvolvendo e corrigindo os exercícios da Aula 10.
+
+#### [Aula 12](aula-12/Readme.md)
+- Criando e editando bancos de dados com _DB Browser for SQLite_.
