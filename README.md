@@ -1,6 +1,6 @@
 # Exercícios de Python
 
-Exercícios realizados para o Curso de Programação em Python do SENAI Campinas.
+Exercícios realizados para o Curso de Programação em Python do SENAI Campinas, ministrado por [Gustavo Favarelli](https://github.com/gfavarelli).
 
 Cada pasta é referente a uma aula, todas contém um arquivo Readme com os enunciados dos exercícios.
 
