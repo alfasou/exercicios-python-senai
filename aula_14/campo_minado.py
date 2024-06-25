@@ -14,7 +14,7 @@ class CampoMinado:
             self.botoes[i]['bg'] = '#ff0000'
             self.botoes[i]['state'] = 'disabled'
             self.botoes[i]['text'] = '💣'
-            resposta = messagebox.askquestion(title='Bomba encontrada!!! 💥', message='Deseja reiniciar o jogo?')
+            resposta = messagebox.askquestion(title='💥 Bomba encontrada!!! 💥', message='Deseja reiniciar o jogo?')
             if resposta == 'yes':
                 self.janela.destroy()
                 self.__init__()
